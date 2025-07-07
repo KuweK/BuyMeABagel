@@ -58,7 +58,8 @@
 ## ⚙️ Установка
 
 ```bash
-git clone https://github.com/твоя-ссылка/buymeabagle.git
+git clone https://github.com/KuweK/BuyMeABagel.git
 cd buymeabagle
-# Настрой доступ к базе данных в файлах update_desc.php,searchuser.php,searching.php,rmcomment.php,remove_handler.php,reg.php,profile.php,payment.php,newcomment.php,login_handler.php,getcomments.php,getbagels.php,get_profiles.php,create_card.php,
+# Настрой доступ к базе данных в файлах
+update_desc.php,searchuser.php,searching.php,rmcomment.php,remove_handler.php,reg.php,profile.php,payment.php,newcomment.php,login_handler.php,getcomments.php,getbagels.php,get_profiles.php,create_card.php,
 checkdesc.php и check_username.php
